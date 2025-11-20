@@ -1,3 +1,29 @@
+# Dependencies
+node_modules
+
+# Next.js
+.next
+out
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env
+.env
+.env.local
+.env.production
+.env.development
+.vercel
+
+# Editor
+.DS_Store
+*.swp
+*.swo
+*.log
+
 # Comprehensive .gitignore template for AI-generated projects
 # Covers most common languages, frameworks, and tools
 
